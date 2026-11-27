@@ -1,4 +1,4 @@
-# FlutterCoreBase
+# Flutter App Starter
 
 A Flutter application starter using Feature-First Clean Architecture, Riverpod Generator, and Freezed.
 
